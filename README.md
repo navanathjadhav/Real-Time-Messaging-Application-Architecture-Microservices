@@ -99,7 +99,7 @@ DB index is a data structure that improves query performance by allowing faster 
 
 ## Share & Care
 
-If you think this project is helpful share it on [Twitter](https://twitter.com/intent/tweet?url=https://github.com/navanathjadhav/Real-Time-Messaging-Application-Architecture-Microservices).
+If you think this project is helpful share it on [X](https://X.com/intent/tweet?url=https://github.com/navanathjadhav/Real-Time-Messaging-Application-Architecture-Microservices).
 
 ## Contribute
 
